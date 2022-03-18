@@ -1,6 +1,6 @@
 # Hospital-Mangement-System
 
-temp
+Hospital Management System Project in Grade 12 with Database(Mysql) and Gui
 
 ## how to run
 
