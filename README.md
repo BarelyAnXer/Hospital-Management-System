@@ -14,4 +14,10 @@ temp
 
 <img src="https://github.com/BarelyAnXer/Hospital-Management-System/blob/main/src/ReadMe%20Images/2.png"></img>
 
-<img width="350" src="https://github.com/BarelyAnXer/Hospital-Management-System/blob/main/src/ReadMe%20Images/2.png"  alt=""/>
+<img src="https://github.com/BarelyAnXer/Hospital-Management-System/blob/main/src/ReadMe%20Images/3.png"></img>
+
+<img src="https://github.com/BarelyAnXer/Hospital-Management-System/blob/main/src/ReadMe%20Images/4.png"></img>
+
+<img src="https://github.com/BarelyAnXer/Hospital-Management-System/blob/main/src/ReadMe%20Images/5.png"></img>
+
+<img src="https://github.com/BarelyAnXer/Hospital-Management-System/blob/main/src/ReadMe%20Images/6.png"></img>
